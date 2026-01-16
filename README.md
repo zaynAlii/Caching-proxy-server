@@ -51,6 +51,7 @@ Cache Response → Store in Redis → Return Response
    ```
 
 3. **Windows Setting for service redis-server  setup**
+    ```
     if you are on windows 
     install Wsl (window sub-system for linux)
     open wsl 
@@ -68,6 +69,7 @@ Cache Response → Store in Redis → Return Response
 
     To stop the redis-server :         
        sudo service redis-server stop
+    ```
          
 
 
